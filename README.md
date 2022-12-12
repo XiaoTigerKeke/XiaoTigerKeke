@@ -1,7 +1,7 @@
-- 👋 Hi, I’m ZhouYanlang
+- 💞️ Hi, I’m ZhouYanlang
 - 👀 I’m XingTai of China
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋I’m looking to collaborate on ...
 
 
 <!---
